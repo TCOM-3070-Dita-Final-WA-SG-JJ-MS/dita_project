@@ -19,6 +19,12 @@
         <topicref href="c_Inventory.dita"/>
         <topicref href="c_Directory.dita"/>
     </topicref>
+    
+    <topicref href="t_ECommerce.dita">
+        <topicref href="c_ECommerce-Overview.dita"/>
+        <topicref href="c_Online-Store.dita"/>
+        <topicref href="c_Intergration.dita"/>
+    </topicref>
 
     <topicref href="r_glossary-terms.dita">
         <topicref href="r_gloss-term.dita"></topicref>
