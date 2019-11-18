@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Square</title>
+    <topicref href="what_is_square.dita"/>
+        
+
+    <topicref href="r_glossary-terms.dita">
+        <topicref href="r_gloss-term.dita"></topicref>
+    </topicref>
+</map>
