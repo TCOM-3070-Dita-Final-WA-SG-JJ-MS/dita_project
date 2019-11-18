@@ -2,8 +2,14 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Square</title>
-    <topicref href="what_is_square.dita"/>
-        
+    <topicref href="t_What-Is-Square.dita"/>
+    <topicref href="t_Payments.dita">
+        <topicref href="c_Payment-Overview.dita"/>
+        <topicref href="c_Phone-Tablet.dita"/>
+        <topicref href="c_Invoice.dita"/>
+        <topicref href="c_Computer.dita"/>
+        <topicref href="c_Website.dita"/>
+    </topicref>
 
     <topicref href="r_glossary-terms.dita">
         <topicref href="r_gloss-term.dita"></topicref>
