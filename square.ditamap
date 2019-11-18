@@ -25,6 +25,14 @@
         <topicref href="c_Online-Store.dita"/>
         <topicref href="c_Intergration.dita"/>
     </topicref>
+    
+    <topicref href="t_Tools.dita">
+        <topicref href="c_Tools-Overview.dita"/>
+        <topicref href="c_Equipment.dita"/>
+        <topicref href="c_Team-Manager.dita"/>
+        <topicref href="c_Payroll.dita"/>
+        <topicref href="c_Gift-Cards.dita"/>
+    </topicref>
 
     <topicref href="r_glossary-terms.dita">
         <topicref href="r_gloss-term.dita"></topicref>
