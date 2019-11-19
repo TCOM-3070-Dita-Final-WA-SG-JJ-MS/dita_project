@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_zby_yyt_tjb">
+<topic id="eCommerce">
     <title>eCommerce</title>
-    <body>
+    <body> 
         <p>Overview of eCommerce</p>
         <p>eCommerce is the practice of buying and selling goods through the use of the Internet.
             With Square, it's entirely possible to manage your internet based business using this
@@ -24,5 +24,6 @@
             <li>Facebook Ad Integration</li>
             <li>Advanced Analytics and Insights</li>
         </ul>
+        
     </body>
 </topic>
