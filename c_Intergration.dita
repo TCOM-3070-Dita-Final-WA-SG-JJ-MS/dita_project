@@ -6,12 +6,12 @@
     <conbody>
         <table>
             <tgroup cols="2">
-                <colspec colname="COLSPEC0" colwidth="76*"/>
-                <colspec colname="COLSPEC1" colwidth="121*"/>
+                <colspec colname="Platform" colwidth="76*"/>
+                <colspec colname="Platform-Info" colwidth="121*"/>
                 <thead>
                     <row>
-                        <entry colname="COLSPEC0" valign="top">Platform Name</entry>
-                        <entry colname="COLSPEC1" valign="top">Description</entry>
+                        <entry colname="Platform" valign="top">Platform Name</entry>
+                        <entry colname="Platform-Info" valign="top">Description</entry>
                     </row>
                 </thead>
                 <tbody>
@@ -21,7 +21,7 @@
                     </row>
                     <row>
                         <entry>WooCommerce</entry>
-                        <entry>Desc</entry>
+                        <entry>WooCommerce is a free platform with a flexible inventory management that works both online and offline. <xref href="https://squareup.com/us/en/app-marketplace/partners/woocommerce" format="html" scope="external">(More info)</xref></entry>
                     </row>
                     <row>
                         <entry>BigCommerce</entry>
@@ -36,7 +36,59 @@
                         <entry>Desc</entry>
                     </row>
                     <row>
-                        <entry>Platform Name</entry>
+                        <entry>3dCart</entry>
+                        <entry>Platform desc</entry>
+                    </row>
+                    <row>
+                    <entry>OpenCart</entry>
+                    <entry>Platform desc</entry>
+                    </row>
+                    <row>
+                    <entry>Magento</entry>
+                    <entry>Platform desc</entry>
+                    </row>
+                    <row>
+                        <entry>Miva</entry>
+                        <entry>Platform desc</entry>
+                    </row>
+                    <row>
+                        <entry>X-Cart</entry>
+                        <entry>Platform desc</entry>
+                    </row>
+                    <row>
+                        <entry>Drupal Commerce</entry>
+                        <entry>Platform desc</entry>
+                    </row>
+                    <row>
+                        <entry>Zen Cart</entry>
+                        <entry>Platform desc</entry>
+                    </row>
+                    <row>
+                        <entry>ShipStation</entry>
+                        <entry>Platform desc</entry>
+                    </row>
+                    <row>
+                        <entry>Mercato</entry>
+                        <entry>Platform desc</entry>
+                    </row>
+                    <row>
+                        <entry>Unbound Commerce</entry>
+                        <entry>Platform desc</entry>
+                    </row>
+                    <row>
+                        <entry>WP EasyCart</entry>
+                        <entry>Platform desc</entry>
+                    </row>
+                    <row>
+                        <entry>WordPress.com</entry>
+                        <entry>Platform desc</entry>
+                    </row>
+                    <row>
+                        <entry>nopCommerce</entry>
+                        <entry>Platform desc</entry>
+                    </row>
+                    <row>
+                        <entry>Sociavore</entry>
                         <entry>Platform desc</entry>
                     </row>
                 </tbody>
