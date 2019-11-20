@@ -2,8 +2,29 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_drf_yyt_tjb">
     <title>Integration</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Square can be integrated into several partner web store platforms.</shortdesc>
     <conbody>
-        <p></p>
+        <ul>
+            <li>Wix</li>
+            <li>WooCommerce</li>
+            <li>BigCommerce</li>
+            <li>GoCentral Online Store</li>
+            <li>Ecwid</li>
+            <li>3dCart</li>
+            <li>OpenCart</li>
+            <li>Magento</li>
+            <li>Miva</li>
+            <li>X-Cart</li>
+            <li>Drupal Commerce</li>
+            <li>Zen Cart</li>
+            <li>ShipStation</li>
+            <li>Mercato</li>
+            <li>Unbound Commerce</li>
+            <li>WP EasyCart</li>
+            <li>WordPress</li>
+            <li>nopCommerce</li>
+            <li>Sociavore</li>
+        </ul>
+        <p/>
     </conbody>
 </concept>
