@@ -3,12 +3,35 @@
 <map>
     <title>Square</title>
     <topicref href="t_What-Is-Square.dita"/>
+    
     <topicref href="t_Payments.dita">
         <topicref href="c_Payment-Overview.dita"/>
         <topicref href="c_Phone-Tablet.dita"/>
         <topicref href="c_Invoice.dita"/>
         <topicref href="c_Computer.dita"/>
         <topicref href="c_Website.dita"/>
+    </topicref>
+    
+    <topicref href="t_POS.dita">
+        <topicref href="c_POS-Overview.dita"/>
+        <topicref href="c_Analytics.dita"/>
+        <topicref href="c_Dashboard.dita"/>
+        <topicref href="c_Inventory.dita"/>
+        <topicref href="c_Directory.dita"/>
+    </topicref>
+    
+    <topicref href="t_ECommerce.dita">
+        <topicref href="c_ECommerce-Overview.dita"/>
+        <topicref href="c_Online-Store.dita"/>
+        <topicref href="c_Intergration.dita"/>
+    </topicref>
+    
+    <topicref href="t_Tools.dita">
+        <topicref href="c_Tools-Overview.dita"/>
+        <topicref href="c_Equipment.dita"/>
+        <topicref href="c_Team-Manager.dita"/>
+        <topicref href="c_Payroll.dita"/>
+        <topicref href="c_Gift-Cards.dita"/>
     </topicref>
 
     <topicref href="r_glossary-terms.dita">
