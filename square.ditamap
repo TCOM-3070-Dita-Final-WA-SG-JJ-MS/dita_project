@@ -36,5 +36,6 @@
 
     <topicref href="r_glossary-terms.dita">
         <topicref href="r_gloss-term.dita"></topicref>
+        <topicref href="r_virtual-term.dita"></topicref>
     </topicref>
 </map>
