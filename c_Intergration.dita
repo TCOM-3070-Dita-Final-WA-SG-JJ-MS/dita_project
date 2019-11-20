@@ -1,9 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_drf_yyt_tjb">
-    <title>Invoice</title>
-    <shortdesc></shortdesc>
+    <title>Integration</title>
+    <shortdesc>Square can be integrated into several partner web store platforms.</shortdesc>
     <conbody>
-        <p></p>
+        <table>
+            <tgroup cols="2">
+                <colspec colname="COLSPEC0" colwidth="121*"/>
+                <colspec colname="COLSPEC1" colwidth="76*"/>
+                <thead>
+                    <row>
+                        <entry colname="COLSPEC0" valign="top">Platform Name</entry>
+                        <entry colname="COLSPEC1" valign="top">Description</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Wix</entry>
+                        <entry>Wix is a flexible website creation platform that requires little to no coding experience. Plans start at $23/mo. <xref href="https://squareup.com/us/en/app-marketplace/partners/wix" format="html" scope="external">(More info)</xref></entry>
+                    </row>
+                    <row>
+                        <entry>WooCommerce</entry>
+                        <entry>Desc</entry>
+                    </row>
+                    <row>
+                        <entry>BigCommerce</entry>
+                        <entry>Desc</entry>
+                    </row>
+                    <row>
+                        <entry>GoCentral Online Store</entry>
+                        <entry>Desc</entry>
+                    </row>
+                    <row>
+                        <entry>EcWild</entry>
+                        <entry>Desc</entry>
+                    </row>
+                    <row>
+                        <entry>Platform Name</entry>
+                        <entry>Platform desc</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p/>
     </conbody>
 </concept>

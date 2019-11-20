@@ -3,6 +3,229 @@
 <topic id="topic_yqm_hxt_tjb">
     <title>Glossary Terms</title>
     <body>
-        <p>ADD CONTENT HERE</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_uyx_3b5_tjb">
+            <title>General Square Terms</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Term</entry>
+                        <entry>Definition</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://squareup.com/help/article/5157" format="html"
+                                scope="external">Account Adjustment</xref></entry>
+                        <entry>Funds debited or credited to your Square account. Account adjustments
+                            are displayed within Transactions of your online Square Dashboard and in
+                            your Transactions spreadsheet.</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><xref href="https://squareup.com/help/article/3882" format="html"
+                                scope="external">Chargeback Period</xref></entry>
+                        <entry>The number of calendar days during which the cardholder or issuer has
+                            the right to dispute the transaction with the acquirer.</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://squareup.com/help/article/3807" format="html"
+                                scope="external">Close of Day</xref></entry>
+                        <entry>The time your payments are grouped for transfer daily. Customize your
+                            close of day time to receive a single transfer for a full day’s business
+                            activity.</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://squareup.com/help/article/5126" format="html"
+                                scope="external">Deferred Funds</xref></entry>
+                        <entry>An amount of earned funds that will be payable at a later
+                            date.</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://squareup.com/help/article/5176" format="html"
+                                scope="external">Manually Entered Transaction</xref></entry>
+                        <entry>The act of manually entering payment information for transactions in
+                            which the card isn’t present (phone or internet orders). When manually
+                            entering a payment, you need to enter the card number, expiration date,
+                            CVV, and billing zip code. All of this information is required to
+                            process a manually entered payment.</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://squareup.com/help/article/5060" format="html"
+                                scope="external">Refund by Amount</xref></entry>
+                        <entry>Refunding your customer a specific dollar amount, instead of the full
+                            purchase amount.</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://squareup.com/help/article/5174" format="html"
+                                scope="external">Swiped Transaction</xref></entry>
+                        <entry>A swiped transaction is a payment accepted through the Square
+                            magstripe reader, chip card reader, or Square Stand.</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://squareup.com/help/article/3896" format="html"
+                                scope="external">Non-Transactional Bank Account</xref></entry>
+                        <entry>A bank account is considered non-transactional if Square can only
+                            credit, but not debit funds. Square requires a transactional bank
+                            account in the event of refunds or chargebacks.</entry>
+                    </row>
+                    <row>
+                        <entry><xref href="https://squareup.com/help/article/3896" format="html"
+                                scope="external">Transactional Bank Account</xref></entry>
+                        <entry>A bank account where funds can be credited and debited. This allows
+                            Square to establish two-way communication with your account in the event
+                            of refunds or chargebacks.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_bpv_3lh_5jb">
+            <title>Analytics Terms and Definitions</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Term</entry>
+                        <entry>Definition</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Gross Sales</entry>
+                        <entry>Overall product sales in a period, including <xref
+                                href="https://squareup.com/help/article/5119" format="html"
+                                scope="external">modifiers</xref>. This amount is not adjusted for
+                            refunds or discounts, and doesn’t include taxes and tips collected on a
+                            sale. Gross sales exclude the sale of a physical gift cards from Square,
+                            but include the sale of products tendered with your gift cards.</entry>
+                    </row>
+                    <row>
+                        <entry>Refunds</entry>
+                        <entry>Amount of product refunded in a give period. It excludes partial
+                            refunds, and refunds of gift cards sales</entry>
+                    </row>
+                    <row>
+                        <entry>Discounts</entry>
+                        <entry>Deductions applied at the time of sale. Discounts are calculated
+                            before tax, and can be applied either as a percentage or dollar amount
+                            of the entire sale or to a specific item. Discounts applied to the sale
+                            of physical gift cards from Square are excluded.</entry>
+                    </row>
+                    <row>
+                        <entry>Net Sales</entry>
+                        <entry>Gross sales amount minus discounts and refunds. Net sales describe
+                            the overall product sales in a period, after the deduction of refunds
+                            and discounts. Net sales don’t reflect the sale of Gift Cards.</entry>
+                    </row>
+                    <row>
+                        <entry>Gift Card Sales</entry>
+                        <entry>Total amount collected from the sale of <xref
+                                href="https://squareup.com/help/article/5432" format="html"
+                                scope="external">Square Gift Cards</xref>. This measure is adjusted
+                            for refunds and discounts applied to Gift Card sales.</entry>
+                    </row>
+                    <row>
+                        <entry>Tax</entry>
+                        <entry>Sales tax amounts applied at the time of sale. Tax is calculated on a
+                            per-transaction basis.</entry>
+                    </row>
+                    <row>
+                        <entry>Tips</entry>
+                        <entry>Gratuity added to the transaction by your customers. This excludes
+                            cash tips because they’re not recorded in the Square app. See the
+                            specific tip applied for each card payment in the <xref
+                                href="https://squareup.com/dashboard/sales/transactions"
+                                format="html" scope="external">Transactions list</xref>.</entry>
+                    </row>
+                    <row>
+                        <entry>Cash Rounding</entry>
+                        <entry>Adjustments applied according to the Swedish Rounding System. Applies
+                            in countries where low denomination coins have been discontinued.
+                            Rounding is applied on the whole bill (not each individual item) after
+                            discounts, tax, and tip are applied.</entry>
+                    </row>
+                    <row>
+                        <entry>Total Collected</entry>
+                        <entry>Total amount collected from the customer. Total collected includes
+                            net product sales in a given period, tax, tip, gift cards from Square
+                            sales, and other cash rounding adjustments collected from the
+                            customer.</entry>
+                    </row>
+                    <row>
+                        <entry>Fees</entry>
+                        <entry>Total <xref href="https://squareup.com/help/article/5068"
+                                format="html" scope="external">Square processing fees</xref> in a
+                            given time period. Fees will be deducted from your next
+                            transfer.</entry>
+                    </row>
+                    <row>
+                        <entry>Net Total</entry>
+                        <entry>Total collected amount minus fees. Net total reflects the amount
+                            collected from your operations after Square’s fees are deducted.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" colsep="1" id="table_spz_m33_5jb">
+            <title>Customer Terms</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Term</entry>
+                        <entry>Definition</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Your Customers</entry>
+                        <entry>The number of customers that have purchased from you within a given
+                            period of time. Customers are identified based on their payment card.
+                            Purchases from Cash and Other Tender are excluded entirely.</entry>
+                    </row>
+                    <row>
+                        <entry>Returning Customers</entry>
+                        <entry>Returning Customers are any buyers in a given period that have
+                            purchased from you anytime before. A customer is classified as Returning
+                            based on their payment card; purchases from Cash or Other Tender are
+                            excluded entirely.</entry>
+                    </row>
+                    <row>
+                        <entry>New Customers</entry>
+                        <entry>New Customers are any buyers within a given period of time – as far
+                            as Square can tell through previous card payments – that have never
+                            purchased with you before. Purchases from Cash and Other Tender are
+                            excluded entirely.</entry>
+                    </row>
+                    <row>
+                        <entry>Customer Spending</entry>
+                        <entry>On average, your Total Collected per Customer Visit. Total Collected
+                            includes Tax and Tip. No sale transactions are not included in this
+                            calculation.</entry>
+                    </row>
+                    <row>
+                        <entry>Customer Visits</entry>
+                        <entry>On average, your Visits per Customer in a given period.</entry>
+                    </row>
+                    <row>
+                        <entry>Customer Frequency</entry>
+                        <entry>Customer Frequency is a view of how often your customers visit in the
+                            last 30 days, and how much they spend per month. Improving the number of
+                            monthly visits over time is an indicator of loyalty and ultimately
+                            customer value. These values are based on customers that pay with their
+                            payment card.</entry>
+                    </row>
+                    <row>
+                        <entry>Customer Recency</entry>
+                        <entry>Customer Recency provides a count of the total number of customers
+                            who visited within a given period of time, as well as the percentage
+                            this number is out of the total amount of customers in your
+                            directory.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
     </body>
 </topic>
