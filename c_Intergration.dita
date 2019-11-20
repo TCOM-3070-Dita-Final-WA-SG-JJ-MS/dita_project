@@ -4,27 +4,44 @@
     <title>Integration</title>
     <shortdesc>Square can be integrated into several partner web store platforms.</shortdesc>
     <conbody>
-        <ul>
-            <li>Wix</li>
-            <li>WooCommerce</li>
-            <li>BigCommerce</li>
-            <li>GoCentral Online Store</li>
-            <li>Ecwid</li>
-            <li>3dCart</li>
-            <li>OpenCart</li>
-            <li>Magento</li>
-            <li>Miva</li>
-            <li>X-Cart</li>
-            <li>Drupal Commerce</li>
-            <li>Zen Cart</li>
-            <li>ShipStation</li>
-            <li>Mercato</li>
-            <li>Unbound Commerce</li>
-            <li>WP EasyCart</li>
-            <li>WordPress</li>
-            <li>nopCommerce</li>
-            <li>Sociavore</li>
-        </ul>
+        <table>
+            <tgroup cols="2">
+                <colspec colname="COLSPEC0" colwidth="121*"/>
+                <colspec colname="COLSPEC1" colwidth="76*"/>
+                <thead>
+                    <row>
+                        <entry colname="COLSPEC0" valign="top">Platform Name</entry>
+                        <entry colname="COLSPEC1" valign="top">Description</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Wix</entry>
+                        <entry>Wix is a flexible website creation platform that requires little to no coding experience. Plans start at $23/mo. <xref href="https://squareup.com/us/en/app-marketplace/partners/wix" format="html" scope="external">(More info)</xref></entry>
+                    </row>
+                    <row>
+                        <entry>WooCommerce</entry>
+                        <entry>Desc</entry>
+                    </row>
+                    <row>
+                        <entry>BigCommerce</entry>
+                        <entry>Desc</entry>
+                    </row>
+                    <row>
+                        <entry>GoCentral Online Store</entry>
+                        <entry>Desc</entry>
+                    </row>
+                    <row>
+                        <entry>EcWild</entry>
+                        <entry>Desc</entry>
+                    </row>
+                    <row>
+                        <entry>Platform Name</entry>
+                        <entry>Platform desc</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
         <p/>
     </conbody>
 </concept>
