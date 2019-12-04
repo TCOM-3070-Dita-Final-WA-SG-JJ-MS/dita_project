@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="eCommerce">
+    <title>eCommerce</title>
+      <body>
+        <p>Square has a robust set of tools that umpover the users to conduct their business not
+            only locally, but over the internet as well.</p>
+    </body>
+    <related-links>
+        <link href="c_ECommerce-Overview.dita"/>
+        <link href="c_Online-Store.dita"/>
+        <link href="c_Intergration.dita"/>
+    </related-links>
+</topic>

@@ -2,10 +2,14 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_p5c_y32_yjb">
     <title>Phone or Tablet</title>
-    <shortdesc></shortdesc>
+    <shortdesc>
+    </shortdesc>
     <taskbody>
+        
         <context>
-            <p></p>
+            <div conref="c_Payment-Overview.dita#concept_drf_yyt_tjb/phone-tab"></div>
+            
+          <p> Add text here </p>
         </context>
     </taskbody>
 </task>

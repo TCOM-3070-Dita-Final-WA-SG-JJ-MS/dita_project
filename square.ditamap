@@ -9,27 +9,36 @@
         <topicref href="t_Computer.dita"/>
         <topicref href="t_Website.dita"/>
     </topicref>
-    <topicref href="t_POS.dita">
-        <topicref href="c_POS-Overview.dita"/>
-        <topicref href="c_Analytics.dita"/>
-        <topicref href="c_Dashboard.dita"/>
-        <topicref href="c_Inventory.dita"/>
-        <topicref href="c_Directory.dita"/>
+    <topicref href="c_POS-Overview.dita">
+        <topicref href="t_Analytics.dita"/>
+        <topicref href="t_Dashboard.dita"/>
+        <topicref href="t_Inventory.dita"/>
+        <topicref href="t_Directory.dita"/>
     </topicref>
-    <topicref href="t_ECommerce.dita">
+    <topicref href="c_ECommerce.dita">
         <topicref href="c_ECommerce-Overview.dita"/>
         <topicref href="c_Online-Store.dita"/>
         <topicref href="c_Intergration.dita"/>
     </topicref>
     <topicref href="t_Tools.dita">
-        <topicref href="c_Tools-Overview.dita"/>
-        <topicref href="c_Equipment.dita"/>
-        <topicref href="c_Team-Manager.dita"/>
-        <topicref href="c_Payroll.dita"/>
+        <topicref href="t_Tools-Overview.dita"/>
+        <topicref href="t_Equipment.dita"/>
+        <topicref href="t_Team-Manager.dita"/>
+        <topicref href="t_Payroll.dita"/>
         <topicref href="c_Gift-Cards.dita"/>
     </topicref>
     <topicref href="r_glossary-terms.dita">
         <topicref href="r_gloss-term.dita"/>
+        <topicref href="r_gloss-term.dita"/>
+        <topicref href="r_gloss-term.dita"/>
+        <topicref href="r_gloss-term.dita"/>
+        <topicref href="r_gloss-term.dita"/>
+        <topicref href="r_gloss-term.dita"/>
+        <topicref href="r_gloss-term.dita"/>
+        <topicref href="r_gloss-term.dita"/>
+        <topicref href="r_gloss-term.dita"/>
         <topicref href="r_virtual-term.dita"/>
+        <topicref href="r_gloss-term.dita"/>
+        <topicref href="r_gloss-term.dita"/>
     </topicref>
 </map>
