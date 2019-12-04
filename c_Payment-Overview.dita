@@ -1,9 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_drf_yyt_tjb">
-    <title>Payment Overview</title>
-    <shortdesc></shortdesc>
+    <title>Payments Overview</title>
+    <shortdesc>Over two million businesses use Square payments to get paid. With Square Payments, business owners and freelancers alike can accept all their customer payments quickly and securely.
+    </shortdesc>
     <conbody>
-        <p></p>
+        <section>
+            <title>On a phone or tablet </title>
+            <p>Square Business users can easily accept credit or debit card payments on the go or in their store.</p>
+            <p>Square users can:</p>
+            <ul>
+                <li>Print or send digital receipts to their customers</li>
+                <li>Swipe payments in Offline Mode</li>
+                <li>Get access to company funds almost right away with a Square Card</li>
+            </ul>
+        </section>
+        <section>
+            <title>Via Invoice</title>
+            <p>Add text here</p>
+        </section>
+        <section>
+            <title>On your Computer</title>
+            <p>Add text here</p>
+        </section>
+        <section>
+            <title>On your Website</title>
+            <p>Add text here</p>
+        </section>
+        <section>
+            <title>Offline Mode</title>
+            <p>In Offline Mode Square, business owners and freelancers will never miss a customer sale no matter the issue. If your internet service is down or temporarily unavailble, customer card payments can still be swiped. As soon as your device regains internet connectivity, all payments are processed.</p>
+        </section>
+        <section>
+            <title>Analytics</title>
+            <p>Square users have access to the Square Dashboard at https://squareup.com/us/en.  Business owners and freelancers can view their sale history, transfers, and best selling products and services. Square Analytics also gives Square user customer insights, charts, and more.</p>
+        </section>
     </conbody>
 </concept>
