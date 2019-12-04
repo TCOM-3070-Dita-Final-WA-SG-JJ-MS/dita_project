@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Square</title>
-    <topicref href="t_What-Is-Square.dita"/>
+    <topicref href="c_What-Is-Square.dita"/>
     
     <topicref href="t_Payments.dita">
         <topicref href="c_Payment-Overview.dita"/>
