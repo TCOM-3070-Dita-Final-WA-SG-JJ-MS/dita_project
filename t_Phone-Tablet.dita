@@ -2,14 +2,63 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_p5c_y32_yjb">
     <title>Phone or Tablet</title>
-    <shortdesc>
-    </shortdesc>
+    <shortdesc>  With the phone or the tablet Square users can securely accept any customer
+        payment.</shortdesc>
     <taskbody>
         
-        <context>
-            <div conref="c_Payment-Overview.dita#concept_drf_yyt_tjb/phone-tab"></div>
-            
-          <p> Add text here </p>
-        </context>
+        <context>This task illustrates how business owners can securely accept customer payment.<div
+                conref="c_Payment-Overview.dita#concept_drf_yyt_tjb/phone-tab"/></context>
+        <steps>
+            <step>
+                <cmd>To accept debit and credit payments, Square business owners must download the
+                    Square app on their device.</cmd>
+            </step>
+            <step>
+                <cmd>Next, tap the "Sign in" or "Get Started" button. </cmd>
+                <substeps id="substeps_qfp_whp_yjb">
+                    <substep>
+                        <cmd>First time Square users will press the "Get Started" button and enter
+                            their email adress and password. Then, users will consent to Square's
+                            terms and privacy policy.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>The "Sign in" button directs users to enter their email address and
+                            password. </cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Business owners that want to use a device code to sign into their POS
+                            without an email or password will tap "Use a Device Code".</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>After submitting your personal information, enable your device settings and
+                    notfications. When your device's settings and notification are enabled, press
+                    "Start using Square".</cmd>
+            </step>
+            <step>
+                <cmd>Business owners can take their first payment by pressing the button "Take First
+                    Payment" or Square users can skip the payment walkthrough by pressing "Skip
+                    Walkthrough"</cmd>
+            </step>
+            <step>
+                <cmd>To take the first payment, follow the directions on your device:</cmd>
+                <substeps id="substeps_r4s_jlp_yjb">
+                    <substep>
+                        <cmd>Enter $1.00 on the keypad or tap the library icon to access your
+                            items.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Now, tap Charge to check out.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Connect to a card reader to Swipe, Insert, or Tap to pay.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
     </taskbody>
 </task>
