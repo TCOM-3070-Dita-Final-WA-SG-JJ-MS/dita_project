@@ -63,13 +63,15 @@
         </section>
         <section>
             <title>Refunds</title>
-            <p>Square business owners have the option to process feunds for payments dorectyly from
-                the square app or through the online Square dashboard. Refunds that are procccesd
-                through Square on phone or tablet must be requested and completed within 120 days of
-                the original transaction. Payments proccessed through the Square dashboard can be
-                refunded within one year of the original transaction. Customers are refunded the
-                full purchase anount and business owners will be refunded the Square proccessing
-                fee.</p>
+            <div id="refunds">
+                <p>Square business owners have the option to process feunds for payments directyly
+                    from the square app or through the online Square dashboard. Refunds that are
+                    procccesd through Square on phone or tablet must be requested and completed
+                    within 120 days of the original transaction. Payments proccessed through the
+                    Square dashboard can be refunded within one year of the original transaction.
+                    Customers are refunded the full purchase anount and business owners will be
+                    refunded the Square proccessing fee.</p>
+            </div>
         </section>
     </conbody>
 </concept>
