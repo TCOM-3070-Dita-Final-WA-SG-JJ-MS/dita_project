@@ -12,12 +12,37 @@
         <steps>
             <step>
                 <cmd>Log in to your Square account and go to the Virtual Terminal.</cmd>
+                <substeps id="substeps_xtn_pbw_yjb">
+                    <substep>
+                        <cmd>To log in to Square, go to<xref href="https://squareup.com/"
+                                format="html" scope="external"/>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Then, click the three bar icon next to "Home" to open a menu bar.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Then, click the "Virtual Terminal" link.</cmd>
+                    </substep>
+                </substeps>
             </step>
             <step>
-                <cmd>Fill in your customer 's information or choose a card on file.</cmd>
+                <cmd>On the Virtual Terminal page, click the "Take a Payment" button. </cmd>
             </step>
             <step>
-                <cmd>Charge the customer, and your're done.</cmd>
+                <cmd>Fill in your customer 's information or choose a customer that is already on
+                    file.</cmd>
+                <substeps id="substeps_f5x_gcw_yjb">
+                    <substep>
+                        <cmd>Square users can do a Quick Charge or and Itemized Sale.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Fill out the amount, enter a note, payment method and card
+                            details</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>When complete, charge the customer by clicking the "Charge" button. </cmd>
             </step>
         </steps>
     </taskbody>
