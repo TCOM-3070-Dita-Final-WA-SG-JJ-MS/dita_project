@@ -6,16 +6,16 @@
         and/or services.</shortdesc>
     <taskbody>
         <context>
-            <p><div conref="c_Payment-Overview.dita#concept_drf_yyt_tjb/refunds"></div></p>
+            <p><div conref="c_Payment-Overview.dita#concept_drf_yyt_tjb/refunds"/></p>
             <p>To refund a customer on a Phone or Tablet:</p>
         </context>
-       <steps>
-           <step>
+        <steps>
+            <step>
                 <cmd>Tap the three horizontal bar lines on your interface to access the menu
                     bar.</cmd>
             </step>
             <step>
-                <cmd>Then, tap "Transactions"  in the menu bar to access the Customer Transactions
+                <cmd>Then, tap "Transactions" in the menu bar to access the Customer Transactions
                     page.</cmd>
             </step>
             <step>
@@ -30,18 +30,18 @@
                 <cmd>Square users are able to issue a refiind by "Items" or "Amount."</cmd>
                 <substeps id="substeps_iw1_m41_zjb">
                     <substep>
-                        <cmd>To issue recipt by "Items", select the refund option of your customer's
+                        <cmd>To issue receipt by "Items," select the refund option of your customer's
                             preffermece. Then, tap the "Next" button to precced with the refund
                         </cmd>
                     </substep>
                     <substep>
-                        <cmd>To issue refund by "Amount", type the specic ammunt on your screen.
+                        <cmd>To issue a refund by "Amount," type the specific amount on your screen.
                             Then , tap the "Next" button to prpcees with the refund.</cmd>
                     </substep>
                 </substeps>
             </step>
-           <step>
-                <cmd>After revieing refund information, Square users have the option to add a gift
+            <step>
+                <cmd>After reviewing refund information, Square users have the option to add a gift
                     card.</cmd>
             </step>
             <step>
@@ -50,6 +50,6 @@
             <step>
                 <cmd>When refund is completed, tap the button "Done" to finish proccess.</cmd>
             </step>
-       </steps>
+        </steps>
     </taskbody>
 </task>

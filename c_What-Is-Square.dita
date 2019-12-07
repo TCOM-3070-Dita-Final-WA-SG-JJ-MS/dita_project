@@ -6,8 +6,8 @@
         California. Square, Inc has various products and services. This guide will focus on Square
         Reader and eCommerce tool, which spreads across multiple platforms, such as PC, mobile
         phone, and tablet.</shortdesc>
-    <conbody> 
-        <section>  With Square, users can accomplish tasks such as:<ul>
+    <conbody>
+        <section> With Square, users can accomplish tasks such as:<ul>
                 <li>Accept credit and debit payments using the Square Reader </li>
                 <li>The ability to virtually connect to any of their devices</li>
                 <li>Manage and upkeep an online shop</li>
@@ -24,7 +24,8 @@
             <p>The Square reader is a free mobile compatible companion that allows buyers to pay on
                 the spot with a credit or debit card. The reader connects to most mobile devices via
                 a 3.5mm audio jack.</p>
-            <image href="square_ios.jpg" alt="Square reader for iPhones that lack a 3.5 mm audio port" height="400px"/>
+            <image href="square_ios.jpg"
+                alt="Square reader for iPhones that lack a 3.5 mm audio port" height="400px"/>
             <p>There are also options available for iPhone 7 (or later) users that utilize the
                 Lightning charge port instead of the 3.5mm audio jack.</p>
             <image href="square_contactless.jpg" alt="Contactless Card Reader" height="400px"/>

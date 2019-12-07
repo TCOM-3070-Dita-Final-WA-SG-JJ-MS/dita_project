@@ -2,9 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_fcm_vjp_yjb">
     <title>Device Codes</title>
-    <shortdesc>Rather than using an email address and password to sign in on the Square POS app,
-        Square users can create a device code. A device code can only be used a single device and it
-        creates a unique code for each device being used.</shortdesc>
+    <shortdesc>Rather than using an email address and password to sign-in on the Square POS app,
+        Square users can create a device code. A device code can only be used on a single device and it 
+        creates a unique code for each Device being used.</shortdesc>
     <taskbody>
         <context>
             <p>To create a device code: </p>
@@ -29,7 +29,7 @@
                     page.</cmd>
             </step>
             <step>
-                <cmd>On the Setup Device page input your device nickname and configuire the settings
+                <cmd>On the Setup Device page input your device nickname and configure the settings
                     on your device. </cmd>
             </step>
             <step>

@@ -5,13 +5,13 @@
     <shortdesc>Invoices are a list of goods sent or services provided with a statement or bill of
         the sum due.</shortdesc>
     <taskbody>
-        <context>Square users can easily create and send custom invoices for free ffrom the Square
+        <context>Square users can easily create and send custom invoices for free from the Square
             Invoice app, their desktop, or within the Square POS system.<div
                 conref="c_Payment-Overview.dita#concept_drf_yyt_tjb/invoice"/><p>To create and send
-                custom invoices for your customers: </p></context>
+                    custom invoices for your customers: </p></context>
         <steps>
             <step>
-                <cmd>Enter the customer's infornation or select an existing customer from your store
+                <cmd>Enter the customer's information or select an existing customer from your store
                     directory.</cmd>
                 <substeps id="substeps_v2r_z5v_yjb">
                     <substep>
@@ -24,13 +24,13 @@
                     Invoice ID, and Invoice Method.</cmd>
                 <substeps id="substeps_afk_jvv_yjb">
                     <substep>
-                        <cmd>Square users also have the ability to set the frequency, create a
+                        <cmd>Square users also can set the frequency, create a
                             custom message and also send the Invoice at a specfic time.</cmd>
                     </substep>
                 </substeps>
             </step>
             <step>
-                <cmd>In Line Items, enter the unit or custom amount for your goods and/or services.
+                <cmd>In Line Items, enter the unit or custom amount for your goods and services.
                     Square users can also select predefined items from the item library and set the
                     quantity.</cmd>
             </step>
