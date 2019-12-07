@@ -2,10 +2,23 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_p5c_y32_yjb">
     <title>Computer</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Square users can start taking payments on their compuers in minutes with no monthly
+        fees.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>This task allows Square users to get their money fast and access their funds in
+            their bank account the next day. <p>
+                <div conref="c_Payment-Overview.dita#concept_drf_yyt_tjb/computer"/>
+            </p><p>To take payments via the Computer:</p></context>
+        <steps>
+            <step>
+                <cmd>Log in to your Square account and go to the Virtual Terminal.</cmd>
+            </step>
+            <step>
+                <cmd>Fill in your customer 's information or choose a card on file.</cmd>
+            </step>
+            <step>
+                <cmd>Charge the customer, and your're done.</cmd>
+            </step>
+        </steps>
     </taskbody>
 </task>

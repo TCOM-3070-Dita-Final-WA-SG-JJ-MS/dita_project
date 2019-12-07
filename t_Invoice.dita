@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_p5c_y32_yjb">
-    <title>Invoice</title>
-    <shortdesc></shortdesc>
+    <title>Invoices</title>
+    <shortdesc>Invoices are a list of goods sent or services provided with a statement or bill of
+        the sum due.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>Square users can easily create and send custom invoices for free ffrom the Square
+            Invoice app, their desktop, or within the Square POS system.<div
+                conref="c_Payment-Overview.dita#concept_drf_yyt_tjb/invoice"/><p>To create and send
+                custom invoices for your customers: </p></context>
+        <steps>
+            <step>
+                <cmd>Enter the customer's infornation or select an existing customer from your store
+                    directory.</cmd>
+                <substeps id="substeps_v2r_z5v_yjb">
+                    <substep>
+                        <cmd>Customer information includes customer name and email address.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Next, enter the invoice details. The invoice details include an optional title,
+                    Invoice ID, and Invoice Method.</cmd>
+                <substeps id="substeps_afk_jvv_yjb">
+                    <substep>
+                        <cmd>Square users also have the ability to set the frequency, create a
+                            custom message and also send the Invoice at a specfic time.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>In Line Items, enter the unit or custom amount for your goods and/or services.
+                    Square users can also select predefined items from the item library and set the
+                    quantity.</cmd>
+            </step>
+            <step>
+                <cmd>Then, hit the "Send" button for your customers to receive the invoice in their
+                    inbox.</cmd>
+            </step>
+        </steps>
     </taskbody>
 </task>

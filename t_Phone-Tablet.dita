@@ -42,7 +42,7 @@
                     Walkthrough"</cmd>
             </step>
             <step>
-                <cmd>To take the first payment, follow the directions on your device:</cmd>
+                <cmd>To take the first payment, follow the directions located on your device:</cmd>
                 <substeps id="substeps_r4s_jlp_yjb">
                     <substep>
                         <cmd>Enter $1.00 on the keypad or tap the library icon to access your
@@ -54,10 +54,13 @@
                     <substep>
                         <cmd>Connect to a card reader to Swipe, Insert, or Tap to pay.</cmd>
                     </substep>
+                    <substep>
+                        <cmd>Enter the customer's email or phone number to send receipt.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Tap New Sale to return to the keypad.</cmd>
+                    </substep>
                 </substeps>
-            </step>
-            <step>
-                <cmd></cmd>
             </step>
         </steps>
     </taskbody>

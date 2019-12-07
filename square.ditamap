@@ -8,6 +8,8 @@
         <topicref href="t_Invoice.dita"/>
         <topicref href="t_Computer.dita"/>
         <topicref href="t_Website.dita"/>
+        <topicref href="t_Device-Code.dita"/>
+        <topicref href="t_refunds.dita"/>
     </topicref>
     <topicref href="c_POS-Overview.dita">
         <topicref href="t_Analytics.dita"/>
@@ -27,7 +29,7 @@
         <topicref href="t_Payroll.dita"/>
         <topicref href="c_Gift-Cards.dita"/>
     </topicref>
-    <topicref href="r_glossary-terms.dita">
+    <topicref href="c_glossary-terms.dita">
         <topicref href="r_gloss-term.dita"/>
         <topicref href="r_gloss-term.dita"/>
         <topicref href="r_gloss-term.dita"/>
