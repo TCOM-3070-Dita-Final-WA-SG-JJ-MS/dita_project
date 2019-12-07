@@ -37,13 +37,15 @@
         <section>
             <title>On your Computer</title>
             <div id="computer">
-            <p>When customers are not there in person, businesss owners can take remote credit card
-                payments over the phone or from the computer.</p>
+                <p>When customers are not there in person, businesss owners can take remote credit
+                    card payments over the phone or from the computer.</p>
             </div>
         </section>
         <section>
             <title>On your Website</title>
-            <p>Square users can create an online store, and connect payments through square.</p>
+            <div id="website">
+                <p>Square users can create an online store, and connect payments through Square.</p>
+            </div>
         </section>
         <section>
             <title>Offline Mode</title>
