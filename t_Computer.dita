@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_p5c_y32_yjb">
     <title>Computer</title>
-    <shortdesc>Square users can start taking payments on their compuers in minutes with no monthly
+    <shortdesc>Square users can start taking payments on their computers in minutes with no monthly
         fees.</shortdesc>
     <taskbody>
         <context>This task allows Square users to get their money fast and access their funds in
@@ -22,6 +22,8 @@
                     </substep>
                     <substep>
                         <cmd>Then, click the "Virtual Terminal" link.</cmd>
+                        <stepresult><image href="Images/Square-Virt-Term.png"
+                                id="image_ilq_hv1_zjb" height="300px"/></stepresult>
                     </substep>
                 </substeps>
             </step>
@@ -38,11 +40,14 @@
                     <substep>
                         <cmd>Fill out the amount, enter a note, payment method and card
                             details</cmd>
+                        <stepresult><image href="Images/Square-Vrt-Term.png" id="image_i23_vv1_zjb"
+                            height="300px"/></stepresult>
                     </substep>
                 </substeps>
             </step>
             <step>
-                <cmd>When complete, charge the customer by clicking the "Charge" button. </cmd>
+                <cmd>When complete, charge the customer by clicking the "Charge" button in the top
+                    right corner. </cmd>
             </step>
         </steps>
     </taskbody>

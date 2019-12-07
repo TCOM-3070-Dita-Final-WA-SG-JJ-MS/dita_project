@@ -17,38 +17,47 @@
             <step>
                 <cmd>Then, tap "Transactions" in the menu bar to access the Customer Transactions
                     page.</cmd>
+                <stepresult><image href="Images/square-refund.PNG" id="image_t2q_3y1_zjb"
+                    height="300px"/></stepresult>
             </step>
             <step>
                 <cmd>Next, find the customer transaction that you want to refund. The Transactions
-                    page lists the custoner orders in order and you can also search by receipt or
+                    page lists the customer orders in order and you can also search by receipt or
                     card number.</cmd>
+                <stepresult><image href="Images/square-refund1.PNG" id="image_bpw_sy1_zjb"
+                    height="300px"/></stepresult>
             </step>
             <step>
-                <cmd>Tap the button "Isuue Refund" to access refud page.</cmd>
+                <cmd>Tap the button "Issue Refund" to access refund page.</cmd>
+                <stepresult><image href="Images/sq-r2.PNG" id="image_cq5_yy1_zjb" height="300px"/></stepresult>
             </step>
             <step>
-                <cmd>Square users are able to issue a refiind by "Items" or "Amount."</cmd>
+                <cmd>Square users are able to issue a refund by "Items" or "Amount."</cmd>
                 <substeps id="substeps_iw1_m41_zjb">
                     <substep>
-                        <cmd>To issue receipt by "Items," select the refund option of your customer's
-                            preffermece. Then, tap the "Next" button to precced with the refund
-                        </cmd>
+                        <cmd>To issue receipt by "Items," select the refund option of your
+                            customer's preference. Then, tap the "Next" button to precced with the
+                            refund </cmd>
                     </substep>
                     <substep>
                         <cmd>To issue a refund by "Amount," type the specific amount on your screen.
-                            Then , tap the "Next" button to prpcees with the refund.</cmd>
+                            Then , tap the "Next" button to process with the refund.</cmd>
+                        <stepresult><image href="Images/SQ3.PNG" height="300px" id="image_gwk_hz1_zjb"
+                            /></stepresult>
                     </substep>
                 </substeps>
             </step>
             <step>
-                <cmd>After reviewing refund information, Square users have the option to add a gift
-                    card.</cmd>
+                <cmd>After reviewing refund information, Square users also have the option to add a
+                    gift card.</cmd>
             </step>
             <step>
                 <cmd>Then select the reason for refund and tap the button "Refund".</cmd>
+                <stepresult><image href="Images/SQ4.PNG" id="image_v3c_pz1_zjb" height="300px"/></stepresult>
             </step>
             <step>
                 <cmd>When refund is completed, tap the button "Done" to finish proccess.</cmd>
+                <stepresult><image href="Images/Sq6.PNG" id="image_chd_tz1_zjb" height="300px"/></stepresult>
             </step>
         </steps>
     </taskbody>

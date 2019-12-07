@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_p5c_y32_yjb">
@@ -24,6 +23,8 @@
                         <cmd>Click the icon "Online Store" to be redirected to <xref
                             href="https://www.weebly.com/" format="html" scope="external"/> and
                             to complete the Online Store onboarding proccess.</cmd>
+                        <stepresult><image href="Images/home-bar.png" id="image_bml_1x1_zjb"
+                            height="300px"/></stepresult>
                     </substep>
                 </substeps>
             </step>
@@ -64,6 +65,8 @@
                     </substep>
                     <substep>
                         <cmd>Publish your website </cmd>
+                        <stepresult><image href="Images/Square-Web-Dash.png" id="image_bmn_gx1_zjb"
+                            height="300px"/></stepresult>
                     </substep>
                 </substeps>
             </step>

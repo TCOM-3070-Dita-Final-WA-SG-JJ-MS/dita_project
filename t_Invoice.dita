@@ -33,6 +33,8 @@
                 <cmd>In Line Items, enter the unit or custom amount for your goods and services.
                     Square users can also select predefined items from the item library and set the
                     quantity.</cmd>
+                <stepresult><image href="Images/invoice-1.png" id="image_oys_s51_zjb"
+                    height="300px"/></stepresult>
             </step>
             <step>
                 <cmd>Then, hit the "Send" button for your customers to receive the invoice in their

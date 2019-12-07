@@ -20,15 +20,15 @@
         </section>
         <section>
             <title>The Square Reader</title>
-            <image href="square_35mmjack.jpg" alt="the traditional square reader" height="400px"/>
+            <image href="square_35mmjack.jpg" alt="the traditional square reader" height="300px"/>
             <p>The Square reader is a free mobile compatible companion that allows buyers to pay on
                 the spot with a credit or debit card. The reader connects to most mobile devices via
                 a 3.5mm audio jack.</p>
             <image href="square_ios.jpg"
-                alt="Square reader for iPhones that lack a 3.5 mm audio port" height="400px"/>
+                alt="Square reader for iPhones that lack a 3.5 mm audio port" height="300px"/>
             <p>There are also options available for iPhone 7 (or later) users that utilize the
                 Lightning charge port instead of the 3.5mm audio jack.</p>
-            <image href="square_contactless.jpg" alt="Contactless Card Reader" height="400px"/>
+            <image href="square_contactless.jpg" alt="Contactless Card Reader" height="300px"/>
             <p>For an additional $29.99, a contactless card/chip reader is available that uses a
                 Bluetooth connection.</p>
         </section>

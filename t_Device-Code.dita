@@ -27,6 +27,8 @@
             <step>
                 <cmd>On your interface, click the button "Add a Device" to go to the Device setup
                     page.</cmd>
+                <stepresult><image href="Images/add-a%20device.png" id="image_um2_lx1_zjb"
+                    height="300px"/></stepresult>
             </step>
             <step>
                 <cmd>On the Setup Device page input your device nickname and configure the settings
@@ -39,6 +41,7 @@
                 <cmd>You can use the unique device code to sign in to the Square app within the next
                     two days . You can also send the deice code to an email and/or phone
                     number.</cmd>
+                <stepresult><image href="Images/device-c.png" id="image_qvz_px1_zjb" height="300px"/></stepresult>
             </step>
         </steps>
     </taskbody>

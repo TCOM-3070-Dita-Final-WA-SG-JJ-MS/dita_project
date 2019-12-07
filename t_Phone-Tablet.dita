@@ -6,12 +6,14 @@
         payment.</shortdesc>
     <taskbody>
         
-        <context>This task illustrates how business owners can securely accept customer payment.<div
-                conref="c_Payment-Overview.dita#concept_drf_yyt_tjb/phone-tab"/></context>
+        <context>This task illustrates how business owners can securely accept customer payment.<div conref="c_Payment-Overview.dita#concept_drf_yyt_tjb/phone-tab"/></context>
         <steps>
             <step>
                 <cmd>To accept debit and credit payments, Square business owners must download the
-                    Square app on their device.</cmd>
+                    Square app on their device. 
+              
+                </cmd>
+                <stepresult><image href="Images/Square-App-Store.jpeg" height="300px"/></stepresult>
             </step>
             <step>
                 <cmd>Next, tap the "Sign in" or "Get Started" button. </cmd>
@@ -28,6 +30,7 @@
                     <substep>
                         <cmd>Business owners that want to use a device code to sign into their POS
                             without an email or password will tap "Use a Device Code".</cmd>
+                        <stepresult>l<image href="Images/Square-Get-Started.PNG" id="image_lcz_b51_zjb" height="300px"/></stepresult>
                     </substep>
                 </substeps>
             </step>
@@ -56,6 +59,8 @@
                     </substep>
                     <substep>
                         <cmd>Enter the customer's email or phone number to send receipt.</cmd>
+                        <stepresult><image href="Images/Square-nochange.PNG" id="image_thc_l51_zjb"
+                                height="300px"/></stepresult>
                     </substep>
                     <substep>
                         <cmd>Tap New Sale to return to the keypad.</cmd>
