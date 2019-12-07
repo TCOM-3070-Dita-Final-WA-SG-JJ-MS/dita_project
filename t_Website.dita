@@ -2,10 +2,70 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_p5c_y32_yjb">
     <title>Website</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Square users can create a free eCommerce website and list their products on their site for Square Payments.  </shortdesc>
     <taskbody>
         <context>
             <p><div conref="c_Payment-Overview.dita#concept_drf_yyt_tjb/website"></div></p>
+            <p>To operate a Square Online Store powered by Weebly:</p>
         </context>
+        <steps>
+            <step>
+                <cmd>Log in to your Square account and go to the Online Store.</cmd>
+                <substeps id="substeps_xtn_pbw_yjb">
+                    <substep>
+                        <cmd>To log in to Square, go to<xref href="https://squareup.com/login"
+                                format="html" scope="external"/></cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Next, click the three bar icon next to "Home" to open a menu bar.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click the icon "Online Store" to be redirected to <xref
+                                href="https://www.weebly.com/" format="html" scope="external"/> and
+                            to complete the Online Store onboarding proccess.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Complete the Online Store Onboarding.</cmd>
+                <substeps id="substeps_mxx_llw_yjb">
+                    <substep>
+                        <cmd>Select the plan to fufill orders: Ship items to buyer and/or Allow
+                            in-store pickup or Skip</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the type of store you want: A single ordering page or a
+                            multipage site layout  </cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Next, Square users will be redirected to the Online Store </cmd>
+            </step>
+            <step>
+                <cmd>To set up your online store, it is recoomended that Square users complete the
+                    Setup Guides:</cmd>
+                <substeps id="substeps_ojv_nyw_yjb">
+                    <substep>
+                        <cmd>Design your website</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Add an item to sell</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select a domain</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Set up shipping rates</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Collect taxtes on your sales</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Publish your website </cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
     </taskbody>
 </task>

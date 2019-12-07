@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_fcm_vjp_yjb">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Device Codes</title>
+    <shortdesc>Rather than using an email address and password to sign in on a Square POS app,
+        Square users can creat a device code. A device code can only be used a single device and it
+        creates a unique code for each device being used.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>To create a device code: </p>
         </context>
+        <steps>
+            <step>
+                <cmd>Go to <xref href="https://squareup.com/login" format="html" scope="external"/>
+                    and log in. </cmd>
+            </step>
+        </steps>
     </taskbody>
 </task>

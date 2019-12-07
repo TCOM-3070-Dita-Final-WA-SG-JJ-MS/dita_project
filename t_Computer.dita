@@ -14,7 +14,7 @@
                 <cmd>Log in to your Square account and go to the Virtual Terminal.</cmd>
                 <substeps id="substeps_xtn_pbw_yjb">
                     <substep>
-                        <cmd>To log in to Square, go to<xref href="https://squareup.com/"
+                        <cmd>To log in to Square, go to<xref href="https://squareup.com/login"
                                 format="html" scope="external"/>.</cmd>
                     </substep>
                     <substep>
