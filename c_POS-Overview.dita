@@ -25,6 +25,7 @@
         </section>
         <section>
             <title>Dashboard</title>
+            <div id="dashboard">
             <p>The Dashboard allows Square users to reduce the amount of paperwork that business
                 owners accumalte. The Dashboard combines all the adminstrative tasks that a business
                 needs in one place for a simple and convient use.</p>
@@ -35,6 +36,7 @@
                     <li>Square Online Store</li>
                     <li>Manage Inventory</li>
                 </ul></p>
+            </div>
         </section>
         <section>
             <title>Inventory</title>
