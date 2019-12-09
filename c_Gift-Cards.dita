@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_drf_yyt_tjb">
-    <title>Payment Overview</title>
+    <title>Gift Cards</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p></p>
+        <div conref="c_Tools-Overview.dita#concept_drf_yyt_tjb/gift-cards"></div>
     </conbody>
 </concept>

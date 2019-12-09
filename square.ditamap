@@ -22,9 +22,8 @@
         <topicref href="c_Online-Store.dita"/>
         <topicref href="c_Intergration.dita"/>
     </topicref>
-    <topicref href="t_Tools-Overview.dita">
-        <topicref href="t_Equipment.dita"/>
-        <topicref href="t_Team-Manager.dita"/>
+    <topicref href="c_Tools-Overview.dita">
+        <topicref href="c_Team-Manager.dita"/>
         <topicref href="t_Payroll.dita"/>
         <topicref href="c_Gift-Cards.dita"/>
     </topicref>

@@ -49,8 +49,11 @@
             </div>
         </section>
         <section>
-            <title>Giftcards</title>
-            <p/>
+            <title>Gift Cards</title>
+            <div id="gift-cards">
+            <p>Gift Cards in Square allow business owners to boost sales while bringing in new
+                customers with Square gift cards. G</p>
+        </div>
         </section>
     </conbody>
 </concept>
