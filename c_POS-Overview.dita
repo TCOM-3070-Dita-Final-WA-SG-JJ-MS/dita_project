@@ -1,9 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_drf_yyt_tjb">
-    <title>Payment Overview</title>
-    <shortdesc></shortdesc>
+    <title>Point of Sale Overview</title>
+    <shortdesc>Square users use the Point of Sale system to run their business effecently. Square
+        POS app is easy to setup and use right away. The Square Point of Sale app is free to use and
+        it allows business owners to get paid right away and give refunds, receive customized
+        analytics reports, check and updtate their inventory, and add customers to their directory
+        all on an easy to use dashboard. </shortdesc>
     <conbody>
-        <p></p>
+        <section>
+            <title>Analytics</title>
+            <p>The Square Point of Sale app offers Square users custimazable  real time analyrits
+                reports. These reports can illustrate to business owners which items or sevices are
+                selling well, the certain times that the business is the most profitable, and
+                more.</p>
+            <p>Analytics Features:<ul id="ul_x4s_jpk_zjb">
+                    <li>Filter and search items by sales, discounts, and refunds</li>
+                    <li>Customer spending habits</li>
+                    <li>Sale tracking</li>
+                    <li>Anytime analytic check</li>
+                </ul></p>
+        </section>
+        <section>
+            <title>Dashboard</title>
+            <p>The Dashboard allows Square users to reduce the amount of paperwork that business
+                owners accumalte. The Dashboard combines all the adminstrative tasks that a business
+                needs in one place for a simple and convient use.</p>
+            <p>Dashboard Features:<ul id="ul_cz4_gqk_zjb">
+                    <li>Online Dashboard</li>
+                    <li>Create and track invoices</li>
+                    <li>Manage employee and customer profiles</li>
+                    <li>Square Online Store</li>
+                    <li>Manage Inventory</li>
+                </ul></p>
+        </section>
+        <section>
+            <title>Inventory</title>
+            <p>The Square Point of Sale app creates a convient and simple to use way for business
+                owners to view, manage, and update their inventory stock. Square users can edit
+                items, get real time alerts, and update their stock all form the POS.</p>
+            <p>Inventory Features:<ul id="ul_fx4_tqk_zjb">
+                    <li>Free managemnet of inventory anywhere</li>
+                    <li>Easy to read CSV spreadsheat import and export</li>
+                </ul></p>
+        </section>
+        <section>
+            <title>Directory</title>
+            <p>The Square Customer Directory allows businesses to store important customer history
+                and informaton. Business Owners can upload eisting customers to their directory or
+                manually add them with customer details with the Square POS app. </p>
+            <p>Custome Directory Features:<ul id="ul_q5j_lxk_zjb">
+                    <li>Store cards on file securely</li>
+                    <li>Instant profiles</li>
+                    <li>Track sale details'</li>
+                    <li>Personalize customer shopping experience</li>
+                    <li>Send custom digital receipts</li>
+                </ul></p>
+        </section>
     </conbody>
 </concept>
