@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="glossentry_wvh_ywt_tjb">
+    <glossterm>Discounts</glossterm>
+    <glossdef>Deductions applied at the time of sale. Discounts are calculated before tax, and can
+        be applied either as a percentage or dollar amount of the entire sale or to a specific item.
+        Discounts applied to the sale of physical gift cards from Square are excluded.</glossdef>
+</glossentry>

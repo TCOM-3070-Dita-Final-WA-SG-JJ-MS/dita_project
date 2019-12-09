@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="glossentry_wvh_ywt_tjb">
+    <glossterm>Your Customer</glossterm>
+    <glossdef>Customer Frequency is a view of how often your customers visit in the last 30 days,
+        and how much they spend per month. Improving the number of monthly visits over time is an
+        indicator of loyalty and ultimately customer value. These values are based on customers that
+        pay with their payment card.</glossdef>
+</glossentry>

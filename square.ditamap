@@ -30,17 +30,16 @@
         <topicref href="c_Gift-Cards.dita"/>
     </topicref>
     <topicref href="c_glossary-terms.dita">
-        <topicref href="r_gloss-term.dita"/>
-        <topicref href="r_gloss-term.dita"/>
-        <topicref href="r_gloss-term.dita"/>
-        <topicref href="r_gloss-term.dita"/>
-        <topicref href="r_gloss-term.dita"/>
-        <topicref href="r_gloss-term.dita"/>
-        <topicref href="r_gloss-term.dita"/>
-        <topicref href="r_gloss-term.dita"/>
-        <topicref href="r_gloss-term.dita"/>
+        <topicref href="r_account-adjustment.dita"/>
+        <topicref href="r_chargeback-period.dita"/>
+        <topicref href="r_Manually-Entered-Transaction.dita"/>
+        <topicref href="r_close-of-day.dita"/>
+        <topicref href="r_Customer-Frequency.dita"/>
+        <topicref href="r_Returning-Customer.dita"/>
+        <topicref href="r_Your-Customer.dita"/>
+        <topicref href="r_cash-roundings.dita"/>
+        <topicref href="r_discounts.dita"/>
         <topicref href="r_virtual-term.dita"/>
-        <topicref href="r_gloss-term.dita"/>
-        <topicref href="r_gloss-term.dita"/>
+        <topicref href="r_gross-sales.dita"/>
     </topicref>
 </map>

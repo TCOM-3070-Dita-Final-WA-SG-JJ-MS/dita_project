@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="glossentry_wvh_ywt_tjb">
+    <glossterm>Your Customer</glossterm>
+    <glossdef>The number of customers that have purchased from you within a given period of time.
+        Customers are identified based on their payment card. Purchases from Cash and Other Tender
+        are excluded entirely.</glossdef>
+</glossentry>

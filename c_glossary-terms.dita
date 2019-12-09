@@ -18,8 +18,8 @@
                             Adjustment</xref></li>
                     <li><xref href="r_chargeback-period.dita" format="dita">Chargeback
                         Period</xref></li>
-                    <li>Close of Day</li>
-                    <li>Manually Entered Transaction</li>
+                <li><xref href="r_close-of-day.dita" format="dita">Close of Day</xref></li>
+                <li><xref href="r_Manually-Entered-Transaction.dita" format="dita">Manually Entered Transaction</xref></li>
                 </ul></p>
         </section>
         <section>
@@ -27,13 +27,15 @@
             <div conref="c_POS-Overview.dita#concept_drf_yyt_tjb/directory"></div>
             <p>TERMS:</p>
             <p><ul>
-                    <li>Your Customers</li>
-                    <li>Returning Customers</li>
-                    <li>Customer Frequency</li>
+                <li><xref href="r_Your-Customer.dita" format="dita">Your Customers</xref></li>
+                <li><xref href="r_Returning-Customer.dita" format="dita">Returning Customers</xref></li>
+                <li><xref href="r_Customer-Frequency.dita" format="dita">Customer Frequency</xref></li>
                 </ul></p>
         </section>
         <section>
             <title>Analytic Square Terms</title>
+            <div conref="c_POS-Overview.dita#concept_drf_yyt_tjb/analytics"></div>
+            <p>TERMS:</p>
             <p><ul>
                     <li>Gross Sales</li>
                     <li>Discounts</li>
