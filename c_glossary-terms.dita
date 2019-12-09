@@ -37,9 +37,9 @@
             <div conref="c_POS-Overview.dita#concept_drf_yyt_tjb/analytics"></div>
             <p>TERMS:</p>
             <p><ul>
-                    <li>Gross Sales</li>
-                    <li>Discounts</li>
-                    <li>Cash Rounding</li>
+                <li><xref href="r_gross-sales.dita" format="dita">Gross Sales</xref></li>
+                <li><xref href="r_discounts.dita" format="dita">Discounts</xref></li>
+                <li><xref href="r_cash-roundings.dita" format="dita">Cash Rounding</xref></li>
                 </ul></p>
         </section>
     </conbody>
