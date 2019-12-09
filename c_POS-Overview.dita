@@ -41,27 +41,32 @@
         <section>
             <title>Inventory</title>
             <div id="inventory">
-            <p>The Square Point of Sale app creates a convient and simple to use way for business
-                owners to view, manage, and update their inventory stock. Square users can edit
-                items, get real time alerts, and update their stock all form the POS.</p>
-            <p>Inventory Features:<ul id="ul_fx4_tqk_zjb">
-                    <li>Free managemnet of inventory anywhere</li>
-                    <li>Easy to read CSV spreadsheat import and export</li>
-                </ul></p>
-                </div>
+                <p>The Square Point of Sale app creates a convient and simple to use way for
+                    business owners to view, manage, and update their inventory stock. Square users
+                    can edit items, get real time alerts, and update their stock all form the
+                    POS.</p>
+                <p>Inventory Features:<ul id="ul_fx4_tqk_zjb">
+                        <li>Free managemnet of inventory anywhere</li>
+                        <li>Easy to read CSV spreadsheat import and export</li>
+                    </ul></p>
+            </div>
         </section>
         <section>
             <title>Directory</title>
-            <p>The Square Customer Directory allows businesses to store important customer history
-                and informaton. Business Owners can upload eisting customers to their directory or
-                manually add them with customer details with the Square POS app. </p>
-            <p>Custome Directory Features:<ul id="ul_q5j_lxk_zjb">
-                    <li>Store cards on file securely</li>
-                    <li>Instant profiles</li>
-                    <li>Track sale details'</li>
-                    <li>Personalize customer shopping experience</li>
-                    <li>Send custom digital receipts</li>
-                </ul></p>
+            <div id="directory">
+                <p>The Square Customer Directory allows businesses to store important customer
+                    history and informaton. Business Owners can upload eisting customers to their
+                    directory or manually add them with customer details with the Square POS app. </p>
+                <p>Custome Directory Features:<ul id="ul_q5j_lxk_zjb">
+                        <li>Store cards on file securely</li>
+                        <li>Instant profiles</li>
+                        <li>Track sale details'</li>
+                        <li>Personalize customer shopping experience</li>
+                        <li>Send custom digital receipts</li>
+                        <li>Send persoalized messages</li>
+                
+                    </ul></p>
+            </div>
         </section>
     </conbody>
 </concept>
