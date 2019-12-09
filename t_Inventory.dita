@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_pt2_mfg_yjb">
-    <title>Invoice</title>
+    <title>Inventory</title>
     <shortdesc></shortdesc>
     <taskbody>
         <context>
+            <div conref="c_POS-Overview.dita#concept_drf_yyt_tjb/inventory"></div>
             <p><b>Track your Square Inventory</b></p>
             <p><b>Track Inventory with Stock Alerts</b><ol id="ol_zqq_cm3_5jb">
                 <li>From the <b>Item Library</b> in your <xref
