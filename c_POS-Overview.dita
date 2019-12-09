@@ -10,6 +10,7 @@
     <conbody>
         <section>
             <title>Analytics</title>
+            <div id="analytics">
             <p>The Square Point of Sale app offers Square users custimazable  real time analyrits
                 reports. These reports can illustrate to business owners which items or sevices are
                 selling well, the certain times that the business is the most profitable, and
@@ -20,6 +21,7 @@
                     <li>Sale tracking</li>
                     <li>Anytime analytic check</li>
                 </ul></p>
+            </div>
         </section>
         <section>
             <title>Dashboard</title>

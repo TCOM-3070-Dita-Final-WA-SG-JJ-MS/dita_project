@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_pt2_mfg_yjb">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Analytics</title>
+    <shortdesc> The Square POS app offerrs business owners analytics with real-time data, customer
+        insignts and reports all on the go.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <div conref="c_POS-Overview.dita#concept_drf_yyt_tjb/analytics"></div>
+            <p>To access Square Analytics:</p>
         </context>
+        <steps>
+            <step>
+                <cmd>Log in or create an acount at <xref href="https://squareup.com/" format="html"
+                        scope="external"/> to be redirected to the Square Dashboard.</cmd>
+            </step>
+            <step>
+                <cmd>Click or Tap the three horizantal bars next to "Home" to open the Square
+                    Dashboard sidebar menu. </cmd>
+            </step>
+            <step>
+                <cmd>Next, Click or Tap the Reports icon in the upper part of the sidebar menu to be
+                    redirected to Analytics Report page.</cmd>
+            </step>
+            <step>
+                <cmd>To view the Sales Summary click "Sales Summary".</cmd>
+                <substeps id="substeps_fxf_xdl_zjb">
+                    <substep>
+                        <cmd>In Sales Summary, Square users can hover over the intercative graph to
+                            get a detailed sale summary of orders.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Square users can also filter sales by date, day, device, and
+                            source.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>To see detailed sales trends in interactive graphs, click the link "See
+                            more sales trends".</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+
     </taskbody>
 </task>
