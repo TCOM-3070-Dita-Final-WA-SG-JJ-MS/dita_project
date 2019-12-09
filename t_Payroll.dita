@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
-<task id="task_pt2_mfg_yjb">
+<task id="task_pt2_mfg_yjb" audience="Business-Owner">
     <title>Payroll</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Square makes payroll simple for users.</shortdesc>
     <taskbody>
         <context>
-            <div conref="c_Tools-Overview.dita#concept_drf_yyt_tjb/payroll"></div>
+            <div conref="c_Tools-Overview.dita#concept_drf_yyt_tjb/payroll"/>
+            <p>To get started with Payroll: </p>
         </context>
+        <steps>
+            <step>
+                <cmd>Log in or create an account at <xref href="https://squareup.com/" format="html"
+                        scope="external"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Then go to <xref
+                        href="https://squareup.com/payroll/employer/setup/employer-tax"
+                        format="html" scope="external"/>.</cmd>
+                <substeps id="substeps_sqx_lsq_zjb">
+                    <substep>
+                        <cmd>Alternatively, Square users can go to their Dashboard and click the
+                            "Payroll" icon in the sidebar menu.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>On the Payroll page submit information about your business including the legal
+                    business Name, Doing Business As, and business type.</cmd>
+                <stepresult/>
+            </step>
+            <step>
+                <cmd>Then submit your busness street adress information and where the business is
+                    located.</cmd>
+            </step>
+            <step>
+                <cmd>Then, choose the amount of people in your business.</cmd>
+            </step>
+            <step>
+                <cmd>Then, submit a phone number for Square to conact you. </cmd>
+                <stepresult><image href="Images/ayroll4.png" id="image_zyz_ktq_zjb" height="300px"/></stepresult>
+            </step>
+            <step>
+                <cmd>Then press the "Submit" button.</cmd>
+            </step>
+        </steps>
     </taskbody>
 </task>

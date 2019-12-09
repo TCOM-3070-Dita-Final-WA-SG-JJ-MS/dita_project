@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
-<task id="task_pt2_mfg_yjb">
+<task id="task_pt2_mfg_yjb" audience="Business-Owner Freelancer">
     <title>Analytics</title>
     <shortdesc> The Square POS app offerrs business owners analytics with real-time data, customer
         insignts and reports all on the go.</shortdesc>
@@ -17,10 +17,13 @@
             <step>
                 <cmd>Click or Tap the three horizantal bars next to "Home" to open the Square
                     Dashboard sidebar menu. </cmd>
+                <stepresult><image href="Images/pos-an1sidemen.png" id="image_cbw_grq_zjb" height="300px"
+                    /></stepresult>
             </step>
             <step>
                 <cmd>Next, Click or Tap the Reports icon in the upper part of the sidebar menu to be
                     redirected to Analytics Report page.</cmd>
+                <stepresult><image href="Images/reports.png" id="image_v45_jrq_zjb"/></stepresult>
             </step>
             <step>
                 <cmd>To view the Sales Summary click "Sales Summary".</cmd>
@@ -36,6 +39,8 @@
                     <substep>
                         <cmd>To see detailed sales trends in interactive graphs, click the link "See
                             more sales trends".</cmd>
+                        <stepresult><image href="Images/sale-details.png" id="image_e5w_nrq_zjb" height='300px'
+                            /></stepresult>
                     </substep>
                 </substeps>
             </step>

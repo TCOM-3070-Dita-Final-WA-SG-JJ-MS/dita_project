@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_drf_yyt_tjb">
+<concept id="concept_drf_yyt_tjb" audience="Business-Owner Freelancer">
     <title>Point of Sale Overview</title>
     <shortdesc>Square users use the Point of Sale system to run their business effecently. Square
         POS app is easy to setup and use right away. The Square Point of Sale app is free to use and
@@ -11,7 +11,7 @@
         <section>
             <title>Analytics</title>
             <div id="analytics">
-                <p>The Square Point of Sale app offers Square users custimazable real time analyrits
+                <p>The Square Point of Sale app offers Square users custimazable real time analytics
                     reports. These reports can illustrate to business owners which items or sevices
                     are selling well, the certain times that the business is the most profitable,
                     and more.</p>

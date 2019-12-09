@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="what_is_square">
+<concept id="what_is_square" audience="Business-Owner Freelancer">
     <title>What is Square?</title>
     <shortdesc>Square, Inc is a financial service and mobile payment company based in San Francisco,
         California. Square, Inc has various products and services. This guide will focus on Square
@@ -43,3 +43,4 @@
         </section>
     </conbody>
 </concept>
+<?oxy_options track_changes="on"?>

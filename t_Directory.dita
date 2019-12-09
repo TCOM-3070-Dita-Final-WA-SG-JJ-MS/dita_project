@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
-<task id="task_pt2_mfg_yjb">
+<task id="task_pt2_mfg_yjb" audience="Freelancer">
     <title>Directory</title>
     <shortdesc> The Square Customer Directory keeps track of customers by building customer
         profiles.</shortdesc>

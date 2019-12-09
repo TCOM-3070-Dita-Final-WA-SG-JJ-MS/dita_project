@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
-<task id="task_fcm_vjp_yjb">
+<task id="task_fcm_vjp_yjb" audience="Business-Owner Freelancer">
     <title>Device Codes</title>
     <shortdesc>Rather than using an email address and password to sign-in on the Square POS app,
         Square users can create a device code. A device code can only be used on a single device and it 
