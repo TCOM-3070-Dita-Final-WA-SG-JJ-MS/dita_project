@@ -10,6 +10,7 @@
         </section>
         <section>
             <title>Team Management</title>
+            <div id="team-management">
             <p>With Team Managment, Square users can easily manage their employees and save on labor
                 costs all for free. Team management allows businesses to track their emploess clock
                 in and out from the register. Team managment also offers real-time reports to save
@@ -23,6 +24,7 @@
                 <li>Free timecards for simple payroll</li>
                 <li>Designed with Retail and Resteraunts in mind</li>
             </ul>
+            </div>
         </section>
         <section>
             <title>Payroll</title>

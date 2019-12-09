@@ -1,9 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_drf_yyt_tjb">
-    <title>Payment Overview</title>
-    <shortdesc></shortdesc>
+<concept id="concept_ggr_52q_zjb">
+    <title>Team Management</title>
+    <shortdesc> Square Team Management has two versions: a free Team Managment version for all
+        locations and a Team Plus version for $35 a month per location.</shortdesc>
     <conbody>
-        <p></p>
+        <div conref="c_Tools-Overview.dita#concept_drf_yyt_tjb/team-management"/>
+        <section>
+            <title>Compare the Team Management Plans</title>
+            <table>
+                <tgroup cols="3">
+                    <tbody>
+
+                        <row>
+                            <entry/>
+                            <entry><b>Team Management</b></entry>
+                            <entry><b>Team Plus</b></entry>
+                        </row>
+                        <row>
+                            <entry>FEATURES</entry>
+                            <entry>
+                                <div>Free for all locations</div>
+                            </entry>
+                            <entry>
+                                <div>$35/mo. per location</div>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>Time Clock</entry>
+                            <entry>
+                                <div>––––––--Yes––––––––-</div>
+                            </entry>
+                            <entry>
+                                <div>
+                                    <div>––––––--Yes––––––––-</div>
+                                </div>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>TimeCard Reporting</entry>
+                            <entry>
+                                <div>––––––--Yes––––––––-</div>
+                            </entry>
+                            <entry>
+                                <div>
+                                    <div>––––––--Yes––––––––-</div>
+                                </div>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>Square POS Integration</entry>
+                            <entry>
+                                <div>
+                                    <div>––––––--Yes––––––––-</div>
+                                </div>
+                            </entry>
+                            <entry>
+                                <div>––––––--Yes––––––––-</div>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>Payroll Exports</entry>
+                            <entry>
+                                <div>––––––--Yes––––––––-</div>
+                            </entry>
+                            <entry>
+                                <div>
+                                    <div>––––––--Yes––––––––-</div>
+                                </div>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>Break Tracking</entry>
+                            <entry>
+                                <div>
+                                    <div>––––––--Yes––––––––-</div>
+                                </div>
+                            </entry>
+                            <entry>
+                                <div>
+                                    <div>––––––--Yes––––––––-</div>
+                                </div>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>Break Violation Reporting</entry>
+                            <entry>
+                                <div>––––––––No––––––-–-</div>
+                            </entry>
+                            <entry>
+                                <div>
+                                    <div>––––––--Yes––––––––-</div>
+                                </div>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>Multiple Wage Rates</entry>
+                            <entry>
+                                <div>––––––––No––––––-–-</div>
+                            </entry>
+                            <entry>
+                                <div>
+                                    <div>––––––--Yes––––––––-</div>
+                                </div>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>One set of Permissions</entry>
+                            <entry>
+                                <div>––––––--Yes––––––––-</div>
+                            </entry>
+                            <entry>
+                                <div>––––––––No––––––-–-</div>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>Unlimited sets of Permissions</entry>
+                            <entry>
+                                <div>
+                                    <div>––––––––No––––––-–-</div>
+                                </div>
+                            </entry>
+                            <entry>
+                                <div>––––––--Yes––––––––-</div>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>Overtime Reporting</entry>
+                            <entry>
+                                <div>––––––--Yes––––––––-</div>
+                            </entry>
+                            <entry>
+                                <div>
+                                    <div>––––––--Yes––––––––-</div>
+                                </div>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>Sales Reporting by Team Member</entry>
+                            <entry>
+                                <div>
+                                    <div>––––––––No––––––-–-</div>
+                                </div>
+                            </entry>
+                            <entry>
+                                <div>
+                                    <div>––––––--Yes––––––––-</div>
+                                </div>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>Aggregate Sales vs Labor Reporting</entry>
+                            <entry>
+                                <div>
+                                    <div>––––––––No––––––-–-</div>
+                                </div>
+                            </entry>
+                            <entry>
+                                <div>––––––--Yes––––––––-</div>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>Individual Sales vs Labor Reporting</entry>
+                            <entry>
+                                <div>
+                                    <div>––––––––No––––––-–-</div>
+                                </div>
+                            </entry>
+                            <entry>
+                                <div>
+                                    <div>––––––--Yes––––––––-</div>
+                                </div>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        
     </conbody>
 </concept>
