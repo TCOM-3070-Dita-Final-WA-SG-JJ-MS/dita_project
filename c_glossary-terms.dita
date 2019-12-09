@@ -2,8 +2,43 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_emm_qhg_yjb">
     <title>Glossary Terms </title>
-    <shortdesc>Add couple of sentences </shortdesc>
+    <shortdesc>Glossary Terms for Square</shortdesc>
     <conbody>
-        <p>Add couple of sentences </p>
+        <div conref="c_What-Is-Square.dita#what_is_square/descript"/>
+
+        <section>
+            <title>General Square Terms</title>
+            <p>Square, Inc is a financial service and mobile payment company based in San Francisco,
+                California. Square, Inc has various products and services. This guide will focus on
+                Square Reader and eCommerce tool, which spreads across multiple platforms, such as
+                PC, mobile phone, and tablet.</p>
+            <p>TERMS:</p>
+            <p><ul>
+                    <li><xref href="r_account-adjustment.dita" format="dita">Account
+                            Adjustment</xref></li>
+                    <li><xref href="r_chargeback-period.dita" format="dita">Chargeback
+                        Period</xref></li>
+                    <li>Close of Day</li>
+                    <li>Manually Entered Transaction</li>
+                </ul></p>
+        </section>
+        <section>
+            <title>Customer Oriented Square Terms</title>
+            <div conref="c_POS-Overview.dita#concept_drf_yyt_tjb/directory"></div>
+            <p>TERMS:</p>
+            <p><ul>
+                    <li>Your Customers</li>
+                    <li>Returning Customers</li>
+                    <li>Customer Frequency</li>
+                </ul></p>
+        </section>
+        <section>
+            <title>Analytic Square Terms</title>
+            <p><ul>
+                    <li>Gross Sales</li>
+                    <li>Discounts</li>
+                    <li>Cash Rounding</li>
+                </ul></p>
+        </section>
     </conbody>
 </concept>

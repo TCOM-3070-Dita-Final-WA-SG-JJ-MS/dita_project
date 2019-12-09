@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="glossentry_wvh_ywt_tjb">
+    <glossterm>Close of Day</glossterm>
+    <glossdef>The time your payments are grouped for transfer daily. Customize your close of day
+        time to receive a single transfer for a full day’s business activity.</glossdef>
+</glossentry>
