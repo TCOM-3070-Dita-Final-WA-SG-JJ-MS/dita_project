@@ -11,28 +11,46 @@
         <section>
             <title>Team Management</title>
             <div id="team-management">
-            <p>With Team Managment, Square users can easily manage their employees and save on labor
-                costs all for free. Team management allows businesses to track their emploess clock
-                in and out from the register. Team managment also offers real-time reports to save
-                on labor costs. Employers can also grant certain employees specific access levels
-                depending on their position.</p>
-            <p>Team Management Features:</p>
-            <ul>
-                <li>Built into Square POS</li>
-                <li>Optimize labor costs and staffing</li>
-                <li>Track team hours, overtime, and breaks</li>
-                <li>Free timecards for simple payroll</li>
-                <li>Designed with Retail and Resteraunts in mind</li>
-            </ul>
+                <p>With Team Managment, Square users can easily manage their employees and save on
+                    labor costs all for free. Team management allows businesses to track their
+                    emploess clock in and out from the register. Team managment also offers
+                    real-time reports to save on labor costs. Employers can also grant certain
+                    employees specific access levels depending on their position.</p>
+                <p>Team Management Features:</p>
+                <ul>
+                    <li>Built into Square POS</li>
+                    <li>Optimize labor costs and staffing</li>
+                    <li>Track team hours, overtime, and breaks</li>
+                    <li>Free timecards for simple payroll</li>
+                    <li>Designed with Retail and Resteraunts in mind</li>
+                </ul>
             </div>
         </section>
         <section>
             <title>Payroll</title>
-            <p></p>
+            <div id="payroll">
+                <p>Square makes payroll simple for users. Square offers a full-service payroll built
+                    by Square. The payroll service is an all in one solution that works with every
+                    type of business. Square's online payroll service start at $34 per month for
+                    users. Payroll syncs with employee timecards and POS. </p>
+                <p>Pricing: Square users pay $29 monthly plus $5 a month per person paid.</p>
+                <p>Payroll Features:</p>
+                <ul>
+                    <li>Pay employees and contractors </li>
+                    <li>Health and other benefits</li>
+                    <li>Track employee hours</li>
+                    <li>Mobile app</li>
+                    <li>Salaried and hourly employees</li>
+                    <li>Online employee acounts </li>
+                    <li>Timecards and tips</li>
+                    <li>Phone Support</li>
+                    <li>Payroll and tax filings taken care by Square</li>
+                </ul>
+            </div>
         </section>
         <section>
             <title>Giftcards</title>
-            <p></p>
+            <p/>
         </section>
     </conbody>
 </concept>
