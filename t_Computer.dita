@@ -18,7 +18,8 @@
                                 format="html" scope="external"/>.</cmd>
                     </substep>
                     <substep>
-                        <cmd>Then, click the three bar icon next to "Home" to open a menu bar.</cmd>
+                        <cmd>Then, click the hambuger menu icon next to "Home" to open a menu
+                            bar.</cmd>
                     </substep>
                     <substep>
                         <cmd>Then, click the "Virtual Terminal" link.</cmd>
