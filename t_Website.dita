@@ -17,7 +17,8 @@
                             format="html" scope="external"/></cmd>
                     </substep>
                     <substep>
-                        <cmd>Next, click the three bar icon next to "Home" to open a menu bar.</cmd>
+                        <cmd>Next, click the hamburger menu icon next to "Home" to open a menu
+                            bar.</cmd>
                     </substep>
                     <substep>
                         <cmd>Click the icon "Online Store" to be redirected to <xref

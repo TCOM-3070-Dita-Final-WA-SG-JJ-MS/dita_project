@@ -15,7 +15,7 @@
                         scope="external"/> to be redirected to the Square Dashboard.</cmd>
             </step>
             <step>
-                <cmd>Click or Tap the three horizantal bars next to "Home" to open the Square
+                <cmd>Click or Tap the hamburger menu icon next to "Home" to open the Square
                     Dashboard sidebar menu. </cmd>
                 <stepresult><image href="Images/pos-an1sidemen.png" id="image_cbw_grq_zjb" height="300px"
                     /></stepresult>

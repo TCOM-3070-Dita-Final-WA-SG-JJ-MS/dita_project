@@ -11,8 +11,7 @@
         </context>
         <steps>
             <step>
-                <cmd>Tap the three horizontal bar lines on your interface to access the menu
-                    bar.</cmd>
+                <cmd>Tap the hamburger icon menu on your screen to access the menu bar.</cmd>
             </step>
             <step>
                 <cmd>Then, tap "Transactions" in the menu bar to access the Customer Transactions
