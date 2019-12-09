@@ -22,6 +22,7 @@
             <step>
                 <cmd>Within the menu, click the customers icon labled "Customers" in the upper half
                     part of the menu to be directed to the customers page.</cmd>
+                <stepresult><image href="Images/home-bar.png" id="image_dz5_mqq_zjb" height="300px"/></stepresult>
             </step>
             <step>
                 <cmd>On the customer's page, go to the left side of the screen to access the
@@ -33,6 +34,8 @@
             <step>
                 <cmd>Then, click the "Continue" button on the Customer Directory welcome
                     popup.</cmd>
+                <stepresult><image href="Images/con-Cust-D.png" id="image_xcc_sqq_zjb" height="300px"
+                    /></stepresult>
             </step>
             <step>
                 <cmd>Then, click the "See Your Directory" button to access the Square Directory.
@@ -43,10 +46,14 @@
                 <substeps id="substeps_zx5_tt4_zjb">
                     <substep>
                         <cmd>Click the "Create a Customer" button.</cmd>
+                        <stepresult><image href="Images/create-cus.png" id="image_t1y_5qq_zjb" height="300px"
+                            /></stepresult>
                     </substep>
                     <substep>
                         <cmd>Input the customer's first and last name, phone number, email adress,
                             adress, groups, company, reference ID and birthday.</cmd>
+                        <stepresult><image href="Images/creste-customer.png" id="image_pb4_xqq_zjb" height="300px"
+                            /></stepresult>
                     </substep>
                     <substep>
                         <cmd>The click the "Save" button to save the customer in the customer
