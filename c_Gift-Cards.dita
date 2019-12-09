@@ -2,8 +2,42 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_drf_yyt_tjb">
     <title>Gift Cards</title>
-    <shortdesc></shortdesc>
+    <shortdesc/>
     <conbody>
-        <div conref="c_Tools-Overview.dita#concept_drf_yyt_tjb/gift-cards"></div>
+        <div conref="c_Tools-Overview.dita#concept_drf_yyt_tjb/gift-cards"/>
+        <section>
+            <title>Digital eGift Cards</title>
+            <p>Digital eGit Cards are free to setup and sell online. Square users and business
+                owners will only pay the 2.9% + 30 cent proceesing rate when a customer buys a gift
+                card. </p>
+            <p><image href="Images/giftcard.png" id="image_otw_wpq_zjb" height="300px"/></p>
+        </section>
+        <section>
+            <title>Starter Packs</title>
+            <p>Starter Pack gift cards are $40 per pack. The Starter Packs can range from fun to
+                festive to quirky depending on the design needs of Square users ad business owners.
+                Each of the pack contains 20 gift cards and it takes up to one business day to
+                produce them.</p>
+        </section>
+        <section>
+            <title>Quick Cards </title>
+            <p>Quick Card business cards range from 95 cents USD per card. With Quick Cards, Square
+                users and business owners can add their business name to one of Square predesigned
+                background templates. The Quick Card packs start at 75 gift card per order and take
+                up to three to five business days to produce. </p>
+        </section>
+        <section>
+            <title>Custom Cards</title>
+            <p>Custom Card business cards range from 80 cents USD per card. With the Custom Cards,
+                Square offers business owners to upload their own art and designs to their gift
+                cards. The Custom Cards packs start at 75 gift cards in an order. They also take up
+                to 15 business days to produce.</p>
+      
+        </section>
+        <section>
+            <p><image href="Images/giftc.png" id="image_vpq_dqq_zjb" height="300px"/></p>
+        </section>
+        
+       
     </conbody>
 </concept>
