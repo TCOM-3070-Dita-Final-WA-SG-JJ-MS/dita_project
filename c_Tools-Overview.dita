@@ -1,9 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_drf_yyt_tjb">
-    <title>Payment Overview</title>
-    <shortdesc></shortdesc>
+    <title>Tools Overview</title>
+    <shortdesc>Square uses many tools to make businesses successful and profitable.</shortdesc>
     <conbody>
-        <p></p>
+        <section>
+            <title>Equipment</title>
+            <div conref="c_What-Is-Square.dita#what_is_square/equipment"/>
+        </section>
+        <section>
+            <title>Team Management</title>
+            <p>With Team Managment, Square users can easily manage their employees and save on labor
+                costs all for free. Team management allows businesses to track their emploess clock
+                in and out from the register. Team managment also offers real-time reports to save
+                on labor costs. Employers can also grant certain employees specific access levels
+                depending on their position.</p>
+            <p>Team Management Features:</p>
+            <ul>
+                <li>Built into Square POS</li>
+                <li>Optimize labor costs and staffing</li>
+                <li>Track team hours, overtime, and breaks</li>
+                <li>Free timecards for simple payroll</li>
+                <li>Designed with Retail and Resteraunts in mind</li>
+            </ul>
+        </section>
+        <section>
+            <title>Payroll</title>
+            <p></p>
+        </section>
+        <section>
+            <title>Giftcards</title>
+            <p></p>
+        </section>
     </conbody>
 </concept>

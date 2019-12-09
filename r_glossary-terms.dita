@@ -140,10 +140,11 @@
                     </row>
                     <row>
                         <entry>Cash Rounding</entry>
-                        <entry>Adjustments applied according to the Swedish Rounding System. Applies
-                            in countries where low denomination coins have been discontinued.
-                            Rounding is applied on the whole bill (not each individual item) after
-                            discounts, tax, and tip are applied.</entry>
+                        <entry><u>Adjustments applied according to the Swedish Rounding System.
+                                Applies in countries where low denomination coins have been
+                                discontinued. Rounding is applied on the whole bill (not each
+                                individual item) after discounts, tax, and tip are
+                            applied.</u></entry>
                     </row>
                     <row>
                         <entry>Total Collected</entry>
